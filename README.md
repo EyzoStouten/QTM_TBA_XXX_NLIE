@@ -1,0 +1,2 @@
+# QTM_TBA_XXX_NLIE
+This is the code used in the Louvain-la-neuve talk (10-04-2019), which calculates the thermodynamic quantities that can be defined as derivatives of the partition function of the fully isotropic spin-1/2 Heisenberg chain at finite temperatures in the thermodynamic limit. The method used is known as the Non-Linear Integral Equation (NLIE) for the Quantum Transfer Matrix (QTM) and first realized by Andreas Klümper.
